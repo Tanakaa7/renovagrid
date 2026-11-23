@@ -1,0 +1,12 @@
+{
+  "name": "renovagrid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de gestão de energias renováveis distribuídas",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
